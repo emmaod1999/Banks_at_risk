@@ -1,0 +1,9 @@
+pip
+pandas
+numpy
+matplotlib
+scipy
+geopandas
+pymrio
+geodatasets
+seaborn
