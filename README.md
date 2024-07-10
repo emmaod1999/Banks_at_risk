@@ -10,9 +10,9 @@ The EXIOBASE depository is also not included and can be downloaded (IOT_2022_ixi
 Put the EXIOBASE zipfile in the exiobase_download_online folder in the Data depository.
 
 The scripts should be run in the following order:
-1. EXIO_Dependencies.py
-2. EXIO_impact_on_ES.py
-3. EXIO_to_NACE.py
-4. x_EXIO_to_NACE.py
-5. value_at_risk_finance.py
+1. Dependencies/EXIO_Dependencies.py
+2. Impacts/EXIO_impact_on_ES.py
+3. NACE Conversion/NACE_EXIO_to_NACE.py
+4. Value at Risk/x_EXIO_to_NACE.py
+5. Value at Risk Analysis/value_at_risk_finance.py
 6. value_at_risk_analysis_clean.py
