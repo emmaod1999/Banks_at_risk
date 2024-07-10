@@ -7,7 +7,7 @@ The financial data is not included here to keep the banks used in the paper anon
 
 The EXIOBASE depository is also not included and can be downloaded (IOT_2022_ixi.zip) here: https://zenodo.org/records/5589597
 
-Put the EXIOBASE zipfile in the exiobase_download_online folder.
+Put the EXIOBASE zipfile in the exiobase_download_online folder in the Data depository.
 
 The scripts should be run in the following order:
 1. EXIO_Dependencies.py
