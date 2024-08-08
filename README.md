@@ -20,3 +20,7 @@ The scripts should be run in the following order:
 4. NACE Conversion/x_EXIO_to_NACE.py
 5. Value at Risk/value_at_risk_finance.py
 6. Value at Risk Analysis/value_at_risk_analysis_clean.py
+
+Run time is approximately 30 minutes on a "normal" desktop computer. 
+
+The two figures in the main text should be generated in  "Data/Value at Risk Figures/", the bank-level sector heatmap figure available in the supplementary materials should be generated in "Data/Value at Risk Figures/Sector" and the significance values should be generated in  "Data/Value at Risk Figures/Value at Risk Significance" as excel files. 
