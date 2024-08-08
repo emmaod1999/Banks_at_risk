@@ -5,7 +5,7 @@ This is the code for the research presented in "Banks at Risk: Materially Increa
 
 The code was written on a Windows 11 Home Operating System (OS Build: 22631.3880) using JetBrains PyCharm 2023.2.4 and Python 3.9.13.
 
-The financial data is not included here to keep the banks used in the paper anonymous but can be gathered in Pillar 3 reporting from banks in Table CQ4 and CQ5. The template for the format of the data is in the financial_data folder in the financial_data_no_K.csv file and the file should populated with relevant Bank data. 
+The financial data is not included here to keep the banks used in the paper anonymous but can be gathered in Pillar 3 reporting from banks in Table CQ4 and CQ5. The template for the format of the data is in the financial_data folder in the financial_data_no_K.csv file and the file should populated with relevant Bank data. A demo file is included with example bank data to run the analysis. 
 
 The EXIOBASE depository is also not included and can be downloaded (IOT_2022_ixi.zip) here: https://zenodo.org/records/5589597
 
