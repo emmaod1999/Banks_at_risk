@@ -1,681 +1,474 @@
 ﻿Bank,Sector,Geography,GBP m,EUR m
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
+Bank X,"Agriculture, forestry and fishing",United Kingdom,52.426964,61.33954788
+Bank X,"Agriculture, forestry and fishing",United States,22.76588004,26.63607965
+Bank X,"Agriculture, forestry and fishing",Other Countries,4.816889065,5.635760206
+Bank X,"Agriculture, forestry and fishing",France,4.496122378,5.260463183
+Bank X,Mining and quarrying,United Kingdom,844.5926288,988.1733757
+Bank X,Mining and quarrying,United States,366.7558257,429.1043161
+Bank X,Mining and quarrying,Other Countries,77.5995535,90.7914776
+Bank X,Mining and quarrying,France,72.43203744,84.7454838
+Bank X,Mining and quarrying,Japan,25.51528879,29.85288789
+Bank X,Mining and quarrying,Germany,21.4003747,25.0384384
+Bank X,Mining and quarrying,Ireland,20.19476564,23.62787579
+Bank X,Mining and quarrying,Luxembourg,17.0000644,19.89007535
+Bank X,Mining and quarrying,Canada,11.38871926,13.32480153
+Bank X,Mining and quarrying,Singapore,9.120741815,10.67126792
+Bank X,Manufacturing,United Kingdom,4346.252927,5085.115925
+Bank X,Manufacturing,United States,1887.316473,2208.160273
+Bank X,Manufacturing,Other Countries,399.3253967,467.2107142
+Bank X,Manufacturing,France,372.733486,436.0981786
+Bank X,Manufacturing,Singapore,46.9351134,54.91408268
+Bank X,"Electricity, gas, steam and air conditioning supply",United Kingdom,1844.161668,2157.669151
+Bank X,"Electricity, gas, steam and air conditioning supply",United States,800.8085935,936.9460544
+Bank X,"Electricity, gas, steam and air conditioning supply",Other Countries,169.4380428,198.2425101
+Bank X,"Electricity, gas, steam and air conditioning supply",France,158.1548103,185.041128
+Bank X,"Electricity, gas, steam and air conditioning supply",Japan,55.71244162,65.1835567
+Bank X,"Electricity, gas, steam and air conditioning supply",Germany,46.72755758,54.67124236
+Bank X,Water supply,France,38.98286326,45.60995001
+Bank X,Water supply,Japan,13.73230754,16.06679982
+Bank X,Water supply,Germany,11.51766414,13.47566705
+Bank X,Water supply,Ireland,10.86880634,12.71650341
+Bank X,Water supply,Luxembourg,9.149420744,10.70482227
+Bank X,Water supply,Canada,6.129399381,7.171397276
+Bank X,Water supply,Singapore,4.908775779,5.743267661
+Bank X,Construction,United Kingdom,1221.375425,1429.009247
+Bank X,Construction,United States,530.3699526,620.5328445
+Bank X,Construction,Other Countries,112.2176354,131.2946334
+Bank X,Construction,France,104.744829,122.55145
+Bank X,Construction,Japan,36.89796196,43.1706155
+Bank X,Construction,Germany,30.94733585,36.20838295
+Bank X,Construction,Ireland,29.20389028,34.16855163
+Bank X,Construction,Luxembourg,24.5839949,28.76327403
+Bank X,Construction,Canada,16.46936209,19.26915364
+Bank X,Wholesale and retail trade,Japan,102.8095572,120.287182
+Bank X,Wholesale and retail trade,Germany,86.22920419,100.8881689
+Bank X,Wholesale and retail trade,Ireland,81.3714056,95.20454456
+Bank X,Wholesale and retail trade,Luxembourg,68.49889523,80.14370742
+Bank X,Wholesale and retail trade,Canada,45.88892541,53.69004273
+Bank X,Wholesale and retail trade,Singapore,36.75049243,42.99807614
+Bank X,Transport and storage,United Kingdom,1148.208124,1343.403505
+Bank X,Transport and storage,United States,498.5977903,583.3594147
+Bank X,Transport and storage,Other Countries,105.4951638,123.4293416
+Bank X,Transport and storage,France,98.47002088,115.2099244
+Bank X,Transport and storage,Japan,34.68756519,40.58445127
+Bank X,Transport and storage,Germany,29.09341526,34.03929585
+Bank X,Transport and storage,Ireland,27.45441195,32.12166198
+Bank X,Accomodation and food service activities,Japan,41.52761191,48.58730593
+Bank X,Accomodation and food service activities,Germany,34.83035063,40.75151024
+Bank X,Accomodation and food service activities,Ireland,32.86815198,38.45573782
+Bank X,Accomodation and food service activities,Luxembourg,27.66859049,32.37225087
+Bank X,Accomodation and food service activities,Canada,18.53580092,21.68688707
+Bank X,Accomodation and food service activities,Singapore,14.84453613,17.36810728
+Bank X,Information and communication,United Kingdom,2547.604778,2980.69759
+Bank X,Information and communication,United States,1106.271665,1294.337848
+Bank X,Information and communication,Other Countries,234.0690488,273.8607871
+Bank X,Information and communication,France,218.4819028,255.6238263
+Bank X,Real estate activities,Japan,215.5571976,252.2019212
+Bank X,Real estate activities,Germany,180.7937521,211.52869
+Bank X,Real estate activities,Ireland,170.608576,199.6120339
+Bank X,Real estate activities,Luxembourg,143.6192344,168.0345042
+Bank X,Real estate activities,Canada,96.21370258,112.570032
+Bank X,Real estate activities,Singapore,77.05347024,90.15256019
+Bank X,"Professional, scientific and technical activities",United Kingdom,1390.178727,1626.50911
+Bank X,"Professional, scientific and technical activities",United States,603.6710828,706.2951669
+Bank X,"Professional, scientific and technical activities",Other Countries,127.7269595,149.4405426
+Bank X,"Professional, scientific and technical activities",France,119.2213549,139.4889853
+Bank X,"Professional, scientific and technical activities",Japan,41.99753878,49.13712037
+Bank X,"Professional, scientific and technical activities",Germany,35.22449123,41.21265474
+Bank X,"Professional, scientific and technical activities",Ireland,33.24008832,38.89090334
+Bank X,Administrative and support service activities,Japan,150.185148,175.7166232
+Bank X,Administrative and support service activities,Germany,125.9644156,147.3783662
+Bank X,Administrative and support service activities,Ireland,118.8680987,139.0756755
+Bank X,Administrative and support service activities,Luxembourg,100.063817,117.0746659
+Bank X,Administrative and support service activities,Canada,67.03496484,78.43090887
+Bank X,Administrative and support service activities,Singapore,53.68545779,62.81198561
+Bank X,"Public administration and defense, compulsory social security",United Kingdom,104.853928,122.6790958
+Bank X,"Public administration and defense, compulsory social security",United States,45.53176008,53.27215929
+Bank X,"Public administration and defense, compulsory social security",Other Countries,9.633778129,11.27152041
+Bank X,"Public administration and defense, compulsory social security",France,8.992244757,10.52092637
+Bank X,Education,Germany,35.63322963,41.69087867
+Bank X,Education,Ireland,33.62580008,39.34218609
+Bank X,Education,Luxembourg,28.30638281,33.11846789
+Bank X,Education,Canada,18.9630721,22.18679436
+Bank X,Education,Singapore,15.18671949,17.7684618
+Bank X,Human health services and social work activities,United Kingdom,1435.116124,1679.085865
+Bank X,Human health services and social work activities,United States,623.1846943,729.1260923
+Bank X,Human health services and social work activities,Other Countries,131.8557215,154.2711942
+Bank X,Human health services and social work activities,France,123.0751741,143.9979537
+Bank X,Human health services and social work activities,Japan,43.35510531,50.72547321
+Bank X,Human health services and social work activities,Germany,36.36311963,42.54484996
+Bank X,Human health services and social work activities,Ireland,34.31457108,40.14804816
+Bank X,Human health services and social work activities,Luxembourg,28.88619401,33.79684699
+Bank X,Human health services and social work activities,Canada,19.35150045,22.64125553
+Bank X,Human health services and social work activities,Singapore,15.49779527,18.13242046
+Bank X,"Arts, entertainment and recreation",United Kingdom,505.8337845,591.8255279
+Bank X,"Arts, entertainment and recreation",United States,219.6532162,256.994263
+Bank X,"Arts, entertainment and recreation",Other Countries,46.47503955,54.37579627
+Bank X,"Arts, entertainment and recreation",Luxembourg,10.18148468,11.91233708
+Bank X,"Arts, entertainment and recreation",Canada,6.820801846,7.98033816
+Bank X,"Arts, entertainment and recreation",Singapore,5.462490664,6.391114077
+Bank X,Other services,United Kingdom,179.7495908,210.3070213
+Bank X,Other services,United States,78.05444585,91.32370164
+Bank X,Other services,Other Countries,16.51504822,19.32260642
+Bank X,Other services,France,15.41527673,18.03587377
+Bank X,Other services,Japan,5.4302661,6.353411337
+Bank X,Other services,Germany,4.554513578,5.328780886
+Bank X,Other services,Ireland,4.297931022,5.028579296
+Bank X,Other services,Luxembourg,3.618021891,4.233085613
+Bank X,Other services,Canada,2.423792911,2.835837706
+Bank X,Other services,Singapore,1.941112856,2.271102041
+Bank Y,"Agriculture, forestry and fishing",United Kingdom,1059.944254,1240.134778
+Bank Y,Mining and quarrying,United States,1017.562501,1190.548127
+Bank Y,Mining and quarrying,Other Countries,2898.842202,3391.645376
+Bank Y,Manufacturing,United Kingdom,14905.75528,17439.73367
+Bank Y,Manufacturing,Hong Kong,15998.47773,18718.21894
+Bank Y,Manufacturing,United States,11145.46504,13040.1941
+Bank Y,Manufacturing,Other Countries,31751.31195,37149.03499
+Bank Y,"Electricity, gas, steam and air conditioning supply",United Kingdom,2854.972534,3340.317865
+Bank Y,"Electricity, gas, steam and air conditioning supply",Hong Kong,3064.267034,3585.192429
+Bank Y,Water supply,United Kingdom,478.833766,560.2355062
+Bank Y,Water supply,Hong Kong,513.9364762,601.3056771
+Bank Y,Water supply,United States,358.0378786,418.904318
+Bank Y,Construction,United States,1717.889841,2009.931115
+Bank Y,Construction,Other Countries,4893.941712,5725.911803
+Bank Y,Wholesale and retail trade,United Kingdom,14365.49165,16807.62524
+Bank Y,Wholesale and retail trade,Hong Kong,15418.60805,18039.77142
+Bank Y,Transport and storage,United States,3098.978306,3625.804618
+Bank Y,Transport and storage,Other Countries,8828.400304,10329.22836
+Bank Y,Accomodation and food service activities,United Kingdom,2734.346634,3199.185562
+Bank Y,Accomodation and food service activities,Hong Kong,2934.798198,3433.713892
+Bank Y,Accomodation and food service activities,United States,2044.550192,2392.123725
+Bank Y,Accomodation and food service activities,Other Countries,5824.534976,6814.705922
+Bank Y,Information and communication,United Kingdom,2882.416522,3372.427331
+Bank Y,Real estate activities,United States,12106.71502,14164.85657
+Bank Y,Real estate activities,Other Countries,34489.73048,40352.98466
+Bank Y,"Professional, scientific and technical activities",United Kingdom,2863.429112,3350.212061
+Bank Y,"Professional, scientific and technical activities",Hong Kong,3073.343553,3595.811957
+Bank Y,"Professional, scientific and technical activities",United States,2141.0689,2505.050613
+Bank Y,"Professional, scientific and technical activities",Other Countries,6099.498435,7136.413169
+Bank Y,Administrative and support service activities,United Kingdom,4009.05605,4690.595578
+Bank Y,Administrative and support service activities,Hong Kong,4302.954982,5034.457329
+Bank Y,Administrative and support service activities,United States,2997.68735,3507.2942
+Bank Y,Administrative and support service activities,Other Countries,8539.841618,9991.614693
+Bank Y,"Public administration and defense, compulsory social security",United Kingdom,189.5549863,221.779334
+Bank Y,"Public administration and defense, compulsory social security",Hong Kong,203.4510276,238.0377022
+Bank Y,Education,United States,294.8055975,344.9225491
+Bank Y,Education,Other Countries,839.8451261,982.6187976
+Bank Y,Human health services and social work activities,United Kingdom,621.9573542,727.6901044
+Bank Y,Human health services and social work activities,Hong Kong,667.5522773,781.0361644
+Bank Y,Human health services and social work activities,United States,465.0555318,544.1149722
+Bank Y,Human health services and social work activities,Other Countries,1324.854837,1550.080159
+Bank Y,"Arts, entertainment and recreation",United Kingdom,297.0971251,347.6036363
+Bank Y,"Arts, entertainment and recreation",Hong Kong,318.8769472,373.0860283
+Bank Y,Other services,Other Countries,4720.262692,5522.707349
+Bank Z,"Agriculture, forestry and fishing",Luxembourg,89.07437317,104.2170166
+Bank Z,"Agriculture, forestry and fishing",Netherlands,180.1666124,210.7949365
+Bank Z,"Agriculture, forestry and fishing",United Kingdom,6674.043945,7808.631416
+Bank Z,Mining and quarrying,United Kingdom,665.8212001,779.0108041
+Bank Z,Mining and quarrying,United States,23.8145917,27.86307229
+Bank Z,Mining and quarrying,Other countries,40.50397807,47.38965435
+Bank Z,Manufacturing,Luxembourg,49.93705633,58.42635591
+Bank Z,Manufacturing,Netherlands,101.0053728,118.1762862
+Bank Z,Manufacturing,United Kingdom,3741.616097,4377.690833
+Bank Z,Manufacturing,United States,133.8273092,156.5779518
+Bank Z,Manufacturing,Other countries,227.6141648,266.3085728
+Bank Z,"Electricity, gas, steam and air conditioning supply",Luxembourg,26.3184956,30.79263986
+Bank Z,"Electricity, gas, steam and air conditioning supply",Netherlands,53.23320308,62.28284761
+Bank Z,Water supply,United States,22.90227577,26.79566265
+Bank Z,Water supply,Other countries,38.95230652,45.57419863
+Bank Z,Construction,Luxembourg,50.19531097,58.72851384
+Bank Z,Construction,Netherlands,101.5277326,118.7874471
+Bank Z,Construction,United Kingdom,3760.966251,4400.330513
+Bank Z,Construction,United States,134.519411,157.3877108
+Bank Z,Construction,Other countries,228.7912949,267.685815
+Bank Z,Wholesale and retail trade,Luxembourg,92.73689352,108.5021654
+Bank Z,Wholesale and retail trade,Netherlands,187.5746228,219.4623087
+Bank Z,Wholesale and retail trade,United Kingdom,6948.464308,8129.70324
+Bank Z,Wholesale and retail trade,United States,248.5274431,290.7771084
+Bank Z,Wholesale and retail trade,Other countries,422.6967329,494.5551775
+Bank Z,Transport and storage,Netherlands,67.07573537,78.47861039
+Bank Z,Transport and storage,United Kingdom,2484.735654,2907.140716
+Bank Z,Transport and storage,United States,88.87215529,103.9804217
+Bank Z,Transport and storage,Other countries,151.1542114,176.8504274
+Bank Z,Accomodation and food service activities,Luxembourg,41.53204168,48.59248877
+Bank Z,Accomodation and food service activities,Netherlands,84.00493867,98.28577825
+Bank Z,Accomodation and food service activities,United Kingdom,3111.856547,3640.87216
+Bank Z,Accomodation and food service activities,United States,111.3025435,130.2239759
+Bank Z,Accomodation and food service activities,Other countries,189.3039292,221.4855972
+Bank Z,Information and communication,Luxembourg,33.16224357,38.79982498
+Bank Z,Information and communication,Netherlands,67.07573537,78.47861039
+Bank Z,Real estate activities,United States,655.1686747,766.5473494
+Bank Z,Real estate activities,Other countries,1114.314197,1303.747611
+Bank Z,"Professional, scientific and technical activities",Luxembourg,32.7983393,38.37405698
+Bank Z,"Professional, scientific and technical activities",Netherlands,66.33968306,77.61742918
+Bank Z,"Professional, scientific and technical activities",United Kingdom,2457.469529,2875.239348
+Bank Z,"Professional, scientific and technical activities",United States,87.89692102,102.8393976
+Bank Z,"Professional, scientific and technical activities",Other countries,149.4955281,174.9097678
+Bank Z,Administrative and support service activities,Luxembourg,29.38233474,34.37733165
+Bank Z,Administrative and support service activities,Netherlands,59.43028872,69.53343781
+Bank Z,Administrative and support service activities,United Kingdom,2201.519767,2575.778128
+Bank Z,Administrative and support service activities,United States,78.74230254,92.12849398
+Bank Z,Administrative and support service activities,Other countries,133.9253066,156.6926088
+Bank Z,"Public administration and defense, compulsory social security",Luxembourg,0.140866167,0.164813416
+Bank Z,"Public administration and defense, compulsory social security",Netherlands,0.284923478,0.333360469
+Bank Z,"Public administration and defense, compulsory social security",United Kingdom,10.55462933,12.34891631
+Bank Z,Education,Netherlands,28.49234777,33.33604689
+Bank Z,Education,United Kingdom,1055.462933,1234.891631
+Bank Z,Education,United States,37.75100402,44.1686747
+Bank Z,Education,Other countries,64.20709866,75.12230544
+Bank Z,Human health services and social work activities,Luxembourg,40.29946272,47.15037138
+Bank Z,Human health services and social work activities,Netherlands,81.51185824,95.36887415
+Bank Z,Human health services and social work activities,Other countries,183.6858081,214.9123955
+Bank Z,"Arts, entertainment and recreation",Luxembourg,6.139417128,7.18311804
+Bank Z,"Arts, entertainment and recreation",Netherlands,12.4179149,14.52896044
+Bank Z,"Arts, entertainment and recreation",United Kingdom,460.0059282,538.206936
+Bank Z,"Arts, entertainment and recreation",United States,16.45314592,19.25018072
+Bank Z,"Arts, entertainment and recreation",Other countries,27.98359383,32.74080479
+Bank Z,Other services,Luxembourg,13.99270596,16.37146597
+Bank Z,Other services,Netherlands,28.30239878,33.11380658
+Bank Z,Other services,United Kingdom,1048.426513,1226.659021
+Bank Z,Other services,United States,37.49933066,43.87421687
+Bank Z,Other services,Other countries,63.77905134,74.62149007
+Bank T,"Agriculture, forestry and fishing",Hong Kong,41.48146446,48.53331341
+Bank T,"Agriculture, forestry and fishing",Korea,33.08212847,38.70609031
+Bank T,"Agriculture, forestry and fishing",Singapore,36.85236852,43.11727117
+Bank T,Mining and quarrying,Singapore,483.9744657,566.2501249
+Bank T,Mining and quarrying,United States,481.772709,563.6740695
+Bank T,Mining and quarrying,Other countries,1883.364719,2203.536721
+Bank T,Manufacturing,Hong Kong,5275.902682,6172.806138
+Bank T,Manufacturing,Korea,4207.616404,4922.911193
+Bank T,Manufacturing,Singapore,4687.141895,5483.956018
+Bank T,Manufacturing,United States,4665.818567,5459.007724
+Bank T,Manufacturing,Other countries,18239.80045,21340.56653
+Bank T,"Electricity, gas, steam and air conditioning supply",Hong Kong,788.5974882,922.6590612
+Bank T,"Electricity, gas, steam and air conditioning supply",Korea,628.9190547,735.835294
+Bank T,"Electricity, gas, steam and air conditioning supply",Singapore,700.5944856,819.6955481
+Bank T,"Electricity, gas, steam and air conditioning supply",Other countries,2726.331717,3189.808109
+Bank T,Water supply,Hong Kong,21.80868321,25.51615936
+Bank T,Water supply,Korea,17.39277215,20.34954341
+Bank T,Water supply,Singapore,19.37495798,22.66870083
+Bank T,Water supply,United States,19.28681501,22.56557356
+Bank T,Water supply,Other countries,75.39677166,88.21422284
+Bank T,Construction,Hong Kong,194.9291582,228.0671151
+Bank T,Construction,Korea,155.4591078,181.8871561
+Bank T,Construction,United States,172.3883362,201.6943534
+Bank T,Construction,Other countries,673.9072271,788.4714557
+Bank T,Wholesale and retail trade,Hong Kong,2553.41459,2987.49507
+Bank T,Wholesale and retail trade,Korea,2036.388797,2382.574892
+Bank T,Wholesale and retail trade,Singapore,2268.468018,2654.107581
+Bank T,Transport and storage,Korea,701.896975,821.2194607
+Bank T,Transport and storage,Singapore,781.8894123,914.8106124
+Bank T,Transport and storage,United States,778.3323439,910.6488423
+Bank T,Transport and storage,Other countries,3042.687244,3559.944075
+Bank T,Accomodation and food service activities,Hong Kong,157.4946659,184.2687591
+Bank T,Accomodation and food service activities,Korea,125.604504,146.9572697
+Bank T,Accomodation and food service activities,Singapore,139.9191553,163.7054117
+Bank T,Information and communication,Singapore,393.8908982,460.8523509
+Bank T,Information and communication,United States,392.0989608,458.7557842
+Bank T,Information and communication,Other countries,1532.808595,1793.386056
+Bank T,Real estate activities,Hong Kong,1610.694913,1884.513048
+Bank T,Real estate activities,Korea,1284.554842,1502.929165
+Bank T,Real estate activities,Singapore,1430.950505,1674.21209
+Bank T,Real estate activities,United States,1424.440647,1666.595557
+Bank T,Real estate activities,Other countries,5568.479094,6515.12054
+Bank T,"Professional, scientific and technical activities",Hong Kong,69.0233582,80.75732909
+Bank T,"Professional, scientific and technical activities",United States,61.04177534,71.41887715
+Bank T,"Professional, scientific and technical activities",Other countries,238.6268959,279.1934682
+Bank T,Administrative and support service activities,Hong Kong,92.06861623,107.720281
+Bank T,Administrative and support service activities,Korea,73.42618757,85.90863946
+Bank T,Administrative and support service activities,Singapore,81.79428135,95.69930918
+Bank T,Administrative and support service activities,United States,81.42217264,95.26394199
+Bank T,Administrative and support service activities,Other countries,318.2987422,372.4095284
+Bank T,"Public administration and defense, compulsory social security",Hong Kong,0,0
+Bank T,"Public administration and defense, compulsory social security",Other countries,0,0
+Bank T,Education,Hong Kong,16.18788857,18.93982962
+Bank T,Education,Korea,12.91009891,15.10481573
+Bank T,Education,Singapore,14.38141211,16.82625216
+Bank T,Education,United States,14.3159864,16.74970409
+Bank T,Education,Other countries,55.96461401,65.4785984
+Bank T,Human health services and social work activities,Singapore,53.83042448,62.98159664
+Bank T,Human health services and social work activities,United States,53.58553242,62.69507294
+Bank T,Human health services and social work activities,Other countries,209.4786594,245.0900315
+Bank T,"Arts, entertainment and recreation",Hong Kong,18.99828589,22.22799449
+Bank T,"Arts, entertainment and recreation",Korea,15.15143553,17.72717957
+Bank T,"Arts, entertainment and recreation",Singapore,16.87818504,19.7474765
+Bank T,"Arts, entertainment and recreation",United States,16.8014007,19.65763882
+Bank T,"Arts, entertainment and recreation",Other countries,65.68069284,76.84641062
+Bank T,Other services,Hong Kong,33.49993606,39.19492519
+Bank T,Other services,Korea,26.71673247,31.258577
+Bank T,Other services,Other countries,115.8156596,135.5043217
+Bank V,"Agriculture, forestry and fishing",United Kingdom,3407.267729,3986.503243
+Bank V,"Agriculture, forestry and fishing",Republic of Ireland,20.54380819,24.03625558
+Bank V,"Agriculture, forestry and fishing",Other Western Europe,79.8711594,93.4492565
+Bank V,"Agriculture, forestry and fishing",United States,88.34649529,103.3653995
+Bank V,"Agriculture, forestry and fishing",Other countries,64.9708084,76.01584583
+Bank V,Mining and quarrying,United States,14.59973495,17.08168989
+Bank V,Mining and quarrying,Other countries,10.73677659,12.56202861
+Bank V,Manufacturing,United Kingdom,8406.020794,9835.044329
+Bank V,Manufacturing,Republic of Ireland,50.68333121,59.29949751
+Bank V,Manufacturing,Other Western Europe,197.0489789,230.5473053
+Bank V,Manufacturing,United States,217.9583571,255.0112778
+Bank V,Manufacturing,Other countries,160.2885391,187.5375907
+Bank V,"Electricity, gas, steam and air conditioning supply",United Kingdom,4223.485647,4941.478207
+Bank V,"Electricity, gas, steam and air conditioning supply",Republic of Ireland,25.46511924,29.79418952
+Bank V,"Electricity, gas, steam and air conditioning supply",United States,109.510078,128.1267913
+Bank V,"Electricity, gas, steam and air conditioning supply",Other countries,80.53469777,94.22559639
+Bank V,Water supply,United Kingdom,3077.802343,3601.028742
+Bank V,Water supply,Republic of Ireland,18.55732687,21.71207244
+Bank V,Water supply,Other Western Europe,72.14802626,84.41319073
+Bank V,Water supply,Other countries,58.6884631,68.66550182
+Bank V,Construction,United Kingdom,4780.970861,5593.735907
+Bank V,Construction,United States,123.9650222,145.039076
+Bank V,Construction,Other countries,91.16499393,106.6630429
+Bank V,Wholesale and retail trade,United Kingdom,13395.46693,15672.6963
+Bank V,Wholesale and retail trade,Republic of Ireland,80.76673894,94.49708456
+Bank V,Wholesale and retail trade,Other countries,255.4288023,298.8516987
+Bank V,Transport and storage,United Kingdom,5343.109541,6251.438163
+Bank V,Transport and storage,Republic of Ireland,32.2157888,37.6924729
+Bank V,Transport and storage,Other Western Europe,125.2500208,146.5425243
+Bank V,Transport and storage,United States,138.5406254,162.0925317
+Bank V,Accomodation and food service activities,Other Western Europe,113.2289859,132.4779135
+Bank V,Accomodation and food service activities,United States,125.2440073,146.5354885
+Bank V,Accomodation and food service activities,Other countries,92.10557105,107.7635181
+Bank V,Information and communication,United Kingdom,4602.277771,5384.664992
+Bank V,Information and communication,Republic of Ireland,27.74901161,32.46634358
+Bank V,Information and communication,Other Western Europe,107.8838796,126.2241391
+Bank V,Information and communication,United States,119.3317179,139.6181099
+Bank V,Real estate activities,Other Western Europe,468.7330947,548.4177208
+Bank V,Real estate activities,United States,518.4715792,606.6117476
+Bank V,Real estate activities,Other countries,381.2886694,446.1077432
+Bank V,"Professional, scientific and technical activities",United Kingdom,3546.871706,4149.839896
+Bank V,"Professional, scientific and technical activities",Republic of Ireland,21.38553756,25.02107894
+Bank V,"Professional, scientific and technical activities",Other Western Europe,83.14367344,97.27809793
+Bank V,"Professional, scientific and technical activities",United States,91.96626429,107.6005292
+Bank V,"Professional, scientific and technical activities",Other countries,67.63281913,79.13039838
+Bank V,Administrative and support service activities,United Kingdom,6674.000787,7808.580921
+Bank V,Administrative and support service activities,Republic of Ireland,40.24027548,47.08112231
+Bank V,Administrative and support service activities,Other Western Europe,156.447988,183.044146
+Bank V,Administrative and support service activities,United States,173.0490898,202.4674351
+Bank V,Administrative and support service activities,Other countries,127.2618593,148.8963754
+Bank V,"Public administration and defense, compulsory social security",United Kingdom,135.8812041,158.9810089
+Bank V,"Public administration and defense, compulsory social security",United States,3.523241823,4.122192932
+Bank V,"Public administration and defense, compulsory social security",Other countries,2.591023771,3.031497813
+Bank V,Education,United Kingdom,497.9208508,582.5673955
+Bank V,Education,Republic of Ireland,3.002168091,3.512536666
+Bank V,Education,Other Western Europe,11.67196675,13.6562011
+Bank V,Education,United States,12.91050942,15.10529602
+Bank V,Education,Other countries,9.494504916,11.10857075
+Bank V,Human health services and social work activities,United Kingdom,4112.733158,4811.897795
+Bank V,Human health services and social work activities,United States,106.6383946,124.7669217
+Bank V,Human health services and social work activities,Other countries,78.42283593,91.75471804
+Bank V,"Arts, entertainment and recreation",United Kingdom,1259.227871,1473.296609
+Bank V,"Arts, entertainment and recreation",Republic of Ireland,7.592398929,8.883106747
+Bank V,"Arts, entertainment and recreation",Other Western Europe,29.51807667,34.5361497
+Bank V,"Arts, entertainment and recreation",United States,32.65031634,38.20087012
+Bank V,Other services,Other Western Europe,20.46412115,23.94302174
+Bank V,Other services,United States,22.63562212,26.48367788
+Bank V,Other services,Other countries,16.64644039,19.47633526
+Bank U,"Agriculture, forestry and fishing",United Kingdom,85.31082803,99.81366879
+Bank U,"Agriculture, forestry and fishing",Jersey,0.040127389,0.046949045
+Bank U,"Agriculture, forestry and fishing",Guernsey,0.080254777,0.093898089
+Bank U,"Agriculture, forestry and fishing",Ireland,0.040127389,0.046949045
+Bank U,Mining and quarrying,Guernsey,0.040764331,0.047694268
+Bank U,Mining and quarrying,Ireland,0.020382166,0.023847134
+Bank U,Mining and quarrying,Other countries,20.58598726,24.0856051
+Bank U,Manufacturing,United Kingdom,517.2815287,605.2193885
+Bank U,Manufacturing,Jersey,0.243312102,0.284675159
+Bank U,Manufacturing,Guernsey,0.486624204,0.569350318
+Bank U,"Electricity, gas, steam and air conditioning supply",Other countries,86.20382166,100.8584713
+Bank U,Water supply,United Kingdom,65.67579618,76.84068153
+Bank U,Water supply,Jersey,0.03089172,0.036143312
+Bank U,Water supply,Guernsey,0.061783439,0.072286624
+Bank U,Water supply,Ireland,0.03089172,0.036143312
+Bank U,Water supply,Other countries,31.20063694,36.50474522
+Bank U,Construction,United Kingdom,726.4961783,850.0005287
+Bank U,Construction,Jersey,0.341719745,0.399812102
+Bank U,Wholesale and retail trade,Ireland,0.630573248,0.737770701
+Bank U,Wholesale and retail trade,Other countries,636.8789809,745.1484076
+Bank U,Transport and storage,United Kingdom,176.0382166,205.9647134
+Bank U,Transport and storage,Jersey,0.082802548,0.096878981
+Bank U,Transport and storage,Guernsey,0.165605096,0.193757962
+Bank U,Transport and storage,Ireland,0.082802548,0.096878981
+Bank U,Transport and storage,Other countries,83.63057325,97.8477707
+Bank U,Accomodation and food service activities,United Kingdom,916.7528662,1072.600854
+Bank U,Accomodation and food service activities,Jersey,0.431210191,0.504515924
+Bank U,Accomodation and food service activities,Guernsey,0.862420382,1.009031847
+Bank U,Information and communication,Guernsey,0.252866242,0.295853503
+Bank U,Information and communication,Ireland,0.126433121,0.147926752
+Bank U,Information and communication,Other countries,127.6974522,149.4060191
+Bank U,Real estate activities,United Kingdom,5921.654777,6928.336089
+Bank U,Real estate activities,Jersey,2.785350318,3.258859873
+Bank U,Real estate activities,Guernsey,5.570700637,6.517719745
+Bank U,Real estate activities,Ireland,2.785350318,3.258859873
+Bank U,Real estate activities,Other countries,2813.203822,3291.448471
+Bank U,"Professional, scientific and technical activities",United Kingdom,875.4515924,1024.278363
+Bank U,"Professional, scientific and technical activities",Jersey,0.411783439,0.481786624
+Bank U,"Professional, scientific and technical activities",Guernsey,0.823566879,0.963573248
+Bank U,"Professional, scientific and technical activities",Ireland,0.411783439,0.481786624
+Bank U,"Professional, scientific and technical activities",Other countries,415.9012739,486.6044904
+Bank U,Administrative and support service activities,United Kingdom,559.2598726,654.334051
+Bank U,"Public administration and defense, compulsory social security",Guernsey,0.004458599,0.005216561
+Bank U,"Public administration and defense, compulsory social security",Ireland,0.002229299,0.00260828
+Bank U,"Public administration and defense, compulsory social security",Other countries,2.251592357,2.634363057
+Bank U,Education,United Kingdom,176.7152866,206.7568854
+Bank U,Education,Jersey,0.083121019,0.097251592
+Bank U,Education,Guernsey,0.166242038,0.194503185
+Bank U,Education,Ireland,0.083121019,0.097251592
+Bank U,Education,Other countries,83.9522293,98.22410828
+Bank U,Human health services and social work activities,United Kingdom,652.0184713,762.8616115
+Bank U,Human health services and social work activities,Ireland,0.306687898,0.358824841
+Bank U,Human health services and social work activities,Other countries,309.7547771,362.4130892
+Bank U,"Arts, entertainment and recreation",United Kingdom,146.9242038,171.9013185
+Bank U,"Arts, entertainment and recreation",Jersey,0.06910828,0.080856688
+Bank U,"Arts, entertainment and recreation",Guernsey,0.138216561,0.161713376
+Bank U,"Arts, entertainment and recreation",Ireland,0.06910828,0.080856688
+Bank U,Other services,Ireland,0.083121019,0.097251592
+Bank U,Other services,Other countries,83.9522293,98.22410828
+Bank W,Construction,United Kingdom,561.9269232,657.4545001
+Bank W,Construction,Australia,0.320654731,0.375166035
+Bank W,Construction,Canada,1.581575215,1.850443001
+Bank W,Construction,Denmark,0.024109378,0.028207973
+Bank W,Construction,Finland,0.05545157,0.064878337
+Bank W,Construction,France,0.344764109,0.403374008
+Bank W,Construction,Germany,0.137423456,0.160785444
+Bank W,Construction,Other countries,136.8038451,160.0604988
+Bank W,Wholesale and retail trade,United Kingdom,0.800465703,0.936544872
+Bank W,Wholesale and retail trade,Australia,0.000456773,0.000534425
+Bank W,Wholesale and retail trade,Canada,0.002252956,0.002635959
+Bank W,Wholesale and retail trade,Denmark,3.43E-05,4.02E-05
+Bank W,Wholesale and retail trade,Finland,7.90E-05,9.24E-05
+Bank W,Wholesale and retail trade,Singapore,0.000240407,0.000281276
+Bank W,Wholesale and retail trade,Sweden,0.000370914,0.000433969
+Bank W,Wholesale and retail trade,Other countries,0.194877272,0.228006409
+Bank W,Accomodation and food service activities,United Kingdom,4.002328513,4.68272436
+Bank W,Accomodation and food service activities,Australia,0.002283866,0.002672123
+Bank W,Accomodation and food service activities,Canada,0.011264781,0.013179793
+Bank W,Accomodation and food service activities,Denmark,0.000171719,0.000200911
+Bank W,Accomodation and food service activities,Finland,0.000394954,0.000462096
+Bank W,Accomodation and food service activities,France,0.002455585,0.002873034
+Bank W,Accomodation and food service activities,Germany,0.0009788,0.001145195
+Bank W,Accomodation and food service activities,Jersey,0.000103032,0.000120547
+Bank W,Real estate activities,Canada,18.1250322,21.20628767
+Bank W,Real estate activities,Denmark,0.276296223,0.32326658
+Bank W,Real estate activities,Finland,0.635481312,0.743513135
+Bank W,Real estate activities,France,3.951035982,4.622712099
+Bank W,Real estate activities,Germany,1.574888468,1.842619508
+Bank W,Real estate activities,Jersey,0.165777734,0.193959948
+Bank W,Real estate activities,Norway,4.144443338,4.848998705
+Bank W,Real estate activities,Singapore,1.934073558,2.262866062
+Bank W,Real estate activities,Sweden,2.983999203,3.491279068
+Bank W,"Professional, scientific and technical activities",Denmark,3.43E-05,4.02E-05
+Bank W,"Professional, scientific and technical activities",Finland,7.90E-05,9.24E-05
+Bank W,"Professional, scientific and technical activities",France,0.000491117,0.000574607
+Bank W,"Professional, scientific and technical activities",Germany,0.00019576,0.000229039
+Bank W,"Professional, scientific and technical activities",Jersey,2.06E-05,2.41E-05
+Bank W,"Professional, scientific and technical activities",Norway,0.000515158,0.000602734
+Bank W,"Professional, scientific and technical activities",Singapore,0.000240407,0.000281276
+Bank W,"Professional, scientific and technical activities",Sweden,0.000370914,0.000433969
+Bank W,"Professional, scientific and technical activities",Other countries,0.194877272,0.228006409
+Bank W,Human health services and social work activities,United Kingdom,1.600931405,1.873089744
+Bank W,Human health services and social work activities,Australia,0.000913546,0.001068849
+Bank W,Human health services and social work activities,Norway,0.001030315,0.001205469
+Bank W,Human health services and social work activities,Singapore,0.000480814,0.000562552
+Bank W,Human health services and social work activities,Sweden,0.000741827,0.000867938
+Bank W,Human health services and social work activities,Other countries,0.389754545,0.456012817
