@@ -55,6 +55,8 @@ scope_3_var_finance_dep_rows_abs = []
 
 # both finance
 for sheet in value_at_risk_finance_csvs:
+    if re.search('Read', sheet):
+        continue
     if re.search('Scope 1', sheet):
         df = pd.read_csv(f'{var_path_finance_path}/{sheet}', index_col=[0, 1, 2], header=[0])
         df.name = sheet
@@ -81,6 +83,8 @@ for sheet in value_at_risk_finance_csvs:
 # imp
 # finance
 for sheet in value_at_risk_finance_imp_csvs:
+    if re.search('Read', sheet):
+        continue
     if re.search('Scope 1', sheet):
         df = pd.read_csv(f'{var_finance_impact_path}/{sheet}', index_col=[0, 1, 2], header=[0])
         df.name = sheet
@@ -107,6 +111,8 @@ for sheet in value_at_risk_finance_imp_csvs:
 # dep
 # finance
 for sheet in value_at_risk_finance_dep_csvs:
+    if re.search('Read', sheet):
+        continue
     if re.search('Scope 1', sheet):
         df = pd.read_csv(f'{var_finance_dependency_path}/{sheet}', index_col=[0, 1, 2], header=[0])
         df.name = sheet
