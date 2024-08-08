@@ -58,7 +58,7 @@ L_NACE_df = pd.read_csv(L_NACE_saving_path, index_col=[0, 1], header=[0, 1])
 # calculate the weighted average for Leontief (col sums multiplier)
 ### calculate overlined((L -1)), relative impact dependency matrix
 L_min_I = L_NACE_df - I_NACE_df
-"""
+
 # load the NACE scores
 dep_score_1_scores = []
 imp_score_1_scores = []
@@ -119,7 +119,7 @@ for imp_score_df in imp_score_1_scores:
 
 # save the finance grouped total to csv
 finance_data_NACE_region_grouped_w_total_df.to_csv(finance_grouped_saving_path)
-"""
+
 L_min_I.to_csv('../Data/financial_data/L_min_I.csv')
 
 
