@@ -29,20 +29,13 @@ The two figures in the main text should be generated in  "Data/Value at Risk Fig
 
 Code Description:
 
-Dependencies/EXIO_Dependencies.py: 
-This code converts the ENCORE materiality dependency ratings from qualitative ratings to quantitative ranks and converts the ENCORE production processes to EXIOBASE sectors for upstream value chain analysis. The resulting data is a matrix of EXIOBASE sectors and their quantitative dependency score (0-1) for each ecosystem service.  
+Dependencies/EXIO_Dependencies.py: This code converts the ENCORE materiality dependency ratings from qualitative ratings to quantitative ranks and converts the ENCORE production processes to EXIOBASE sectors for upstream value chain analysis. The resulting data is a matrix of EXIOBASE sectors and their quantitative dependency score (0-1) for each ecosystem service.  
 
-Impacts/EXIO_impact_on_ES.py
+Impacts/EXIO_impact_on_ES.py: This code converts the ENCORE materiality impact ratings for impact drivers from qualitative ratings to quantitative ranks and converts the ENCORE production processes to EXIOBASE sectors for upstream value chain analysis. The influence of the drivers of environmental change are converted from qualitative ratings to quantitative ratings and are multiplied to the impact driver ENCORE impact score. The importance of natural capital assets to the provision of ecosystem services is converted from qualitative to quantitative ranks and are multiplied by the resulting influence and impact score. The resulting data is a matrix of EXIOBASE sectors and their quantitative impact score (0-1) for each ecosystem service.  
 
-This code converts the ENCORE materiality impact ratings for impact drivers from qualitative ratings to quantitative ranks and converts the ENCORE production processes to EXIOBASE sectors for upstream value chain analysis. The influence of the drivers of environmental change are converted from qualitative ratings to quantitative ratings and are multiplied to the impact driver ENCORE impact score. The importance of natural capital assets to the provision of ecosystem services is converted from qualitative to quantitative ranks and are multiplied by the resulting influence and impact score. The resulting data is a matrix of EXIOBASE sectors and their quantitative impact score (0-1) for each ecosystem service.  
+NACE Conversion/EXIO_to_NACE.py: This code converts the EXIOBASE sectors to NACE letter categories used in the Pillar 3 reporting for the impact and dependency score. 
 
-NACE Conversion/EXIO_to_NACE.py
-
-This code converts the EXIOBASE sectors to NACE letter categories used in the Pillar 3 reporting for the impact and dependency score. 
-
-NACE Conversion/x_EXIO_to_NACE.py
-
-This code converts the EXIOBASE sectors to NACE letter categories used in the Pillar 3 reporting for the EXIOBASE components (primiarly the Leontief matrix) to allow for upstream value chain analysis. 
+NACE Conversion/x_EXIO_to_NACE.py: This code converts the EXIOBASE sectors to NACE letter categories used in the Pillar 3 reporting for the EXIOBASE components (primiarly the Leontief matrix) to allow for upstream value chain analysis. 
 
 Value at Risk/value_at_risk_finance.py
 
