@@ -24,23 +24,30 @@ The scripts should be run in the following order:
 Run time is approximately 30 minutes on a "normal" desktop computer. 
 
 Expected output:
+
 The two figures in the main text should be generated in  "Data/Value at Risk Figures/", the bank-level sector heatmap figure available in the supplementary materials should be generated in "Data/Value at Risk Figures/Sector" and the significance values should be generated in  "Data/Value at Risk Figures/Value at Risk Significance" as excel files. 
 
 Code Description:
+
 Dependencies/EXIO_Dependencies.py: 
 This code converts the ENCORE materiality dependency ratings from qualitative ratings to quantitative ranks and converts the ENCORE production processes to EXIOBASE sectors for upstream value chain analysis. The resulting data is a matrix of EXIOBASE sectors and their quantitative dependency score (0-1) for each ecosystem service.  
 
 Impacts/EXIO_impact_on_ES.py
+
 This code converts the ENCORE materiality impact ratings for impact drivers from qualitative ratings to quantitative ranks and converts the ENCORE production processes to EXIOBASE sectors for upstream value chain analysis. The influence of the drivers of environmental change are converted from qualitative ratings to quantitative ratings and are multiplied to the impact driver ENCORE impact score. The importance of natural capital assets to the provision of ecosystem services is converted from qualitative to quantitative ranks and are multiplied by the resulting influence and impact score. The resulting data is a matrix of EXIOBASE sectors and their quantitative impact score (0-1) for each ecosystem service.  
 
 NACE Conversion/EXIO_to_NACE.py
+
 This code converts the EXIOBASE sectors to NACE letter categories used in the Pillar 3 reporting for the impact and dependency score. 
 
 NACE Conversion/x_EXIO_to_NACE.py
+
 This code converts the EXIOBASE sectors to NACE letter categories used in the Pillar 3 reporting for the EXIOBASE components (primiarly the Leontief matrix) to allow for upstream value chain analysis. 
 
 Value at Risk/value_at_risk_finance.py
+
 This code combines the financial information from the Pillar 3 reporting with the impact and dependency score and then combines the resulting financial impact and dependency on each ecosystem service in each region to calculate the impact feedback intensity metric for each bank's loan portfolio.
 
 Value at Risk Analysis/value_at_risk_analysis_clean.py
+
 This code analyzes the results of the impact feedback intensity metric calculations from above and compiles figures displaying the results and runs statistical tests. 
