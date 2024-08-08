@@ -9,6 +9,8 @@ The EXIOBASE depository is also not included and can be downloaded (IOT_2022_ixi
 
 Put the EXIOBASE zipfile in the exiobase_download_online folder in the Data depository.
 
+Install the requirements in requirements.txt 
+
 The scripts should be run in the following order:
 1. Dependencies/EXIO_Dependencies.py
 2. Impacts/EXIO_impact_on_ES.py
